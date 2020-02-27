@@ -1,0 +1,82 @@
+html {
+    background-color: black;
+}
+
+main {
+     width:998px; 
+     margin: -7px auto 10px; 
+     border:0px solid rgb(26, 25, 25); 
+     background-color: rgb(20, 20, 20); 
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
+     
+     header {
+         width: 995px;
+         height:95px;
+         background:url(header-01.jpg);
+         margin-top: 0;
+     }
+
+     nav { 
+         width: 998px; 
+         background-color: rgb(0, 0, 0) }
+            nav ul { list-style:none; margin:0; padding:2px }
+            nav ul li { display:inline-block; }
+            nav ul li a { font-size: 1em; text-decoration: none; color: #FFF; padding: 16px }
+            nav ul li a:hover { background-color: rgb(122, 115, 111) }
+
+            article { 
+                float:left; 
+                margin:30px 20px; 
+                width:600px 
+            }
+            
+            article header h1 {
+                margin:0;
+            }
+            
+            article header h5 {
+                margin:0; font-size: 1.1em; 
+                color:#ccc;
+                font-weight: 100;
+            }
+            
+            
+            #apoio { 
+                float:right; 
+                width:300px; 
+                margin-top:30px 
+            }		
+            
+            footer { 
+                clear:both; 
+                width:700px; 
+                margin:0 auto;
+                font-size:0.75em;
+                color: aliceblue;
+                text-align:center; 
+                background-color:rgb(20, 20, 20); 
+                padding:5px 
+            }
+
+            h1, h2, h3, h4 { 
+                font-family:Georgia, "Times New Roman", Times, serif; 
+                color:rgb(196, 191, 189); 
+                font-style:italic; 
+                letter-spacing:-0.05em 
+            }
+            h1 { 
+                font-size:2.6em; 
+                margin:0 5px; 
+            }
+            h4 { 
+                font-size:1.6em; 
+                margin:0 5px; 
+            }
+            p, li { 
+                font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+                font-size:0.9em;
+                text-align: justify;
+                text-indent: 5%;
+                color:#555; 
+                line-height:1.8 
+            }
