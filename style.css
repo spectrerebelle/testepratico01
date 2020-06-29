@@ -21,10 +21,7 @@ article {
     width: 600px;
 }
 
-h1,
-h2,
-h3,
-h4 {
+article h2, h3 {
     color: rgb(196, 191, 189);
     font-style: italic;
     letter-spacing: -0.05em;
@@ -49,11 +46,12 @@ li {
 
 footer {
     clear: both;
-    width: 700px;
+    width: auto;
+    display: block;
     margin: 0 auto;
-    font-size: 0.75em;
-    color: aliceblue;
-    text-align: center;
-    background-color: rgb(20, 20, 20);
     padding: 5px;
+    font-size: 0.75em;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgba(20, 20, 20, 0.582);
 }
