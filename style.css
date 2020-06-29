@@ -37,11 +37,22 @@ li {
     line-height: 1.8;
 }
 
+ul, li {
+    list-style: none;
+}
+
 
 #apoio {
     float: right;
     width: 300px;
     margin-top: 30px;
+}
+
+#apoio h2 {
+    color: rgb(196, 191, 189);
+    font-style: italic;
+    letter-spacing: -0.05em;
+    margin: 0 5px;
 }
 
 footer {
