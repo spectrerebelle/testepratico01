@@ -5,7 +5,7 @@
 
 
 .navbar .navbar-brand .navbar-nav .nav-item .nav-link {
-    color: whitesmoke;
+    color: aliceblue;
 }
 
 header {
@@ -22,7 +22,7 @@ article {
 }
 
 article h2, h3 {
-    color: rgb(196, 191, 189);
+    color: darkslategray;
     font-style: italic;
     letter-spacing: -0.05em;
     margin: 0 5px;
@@ -33,7 +33,7 @@ li {
     font-size: 0.9em;
     text-align: justify;
     text-indent: 5%;
-    color: #555;
+    color: grey;
     line-height: 1.8;
 }
 
@@ -44,12 +44,12 @@ ul, li {
 
 #apoio {
     float: right;
-    width: 300px;
-    margin-top: 30px;
+    width: 250px;
+    margin: 20px 30px;
 }
 
 #apoio h2 {
-    color: rgb(196, 191, 189);
+    color: darkslategray;
     font-style: italic;
     letter-spacing: -0.05em;
     margin: 0 5px;
