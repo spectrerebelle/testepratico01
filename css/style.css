@@ -1,0 +1,10 @@
+* {
+    background-color: gainsboro;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    text-decoration: none;
+    text-align: center;
+}
