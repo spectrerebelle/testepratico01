@@ -55,6 +55,18 @@ ul, li {
     margin: 0 5px;
 }
 
+
+.pix {
+    margin-top: 25px;
+    margin-left: 300px;
+    display: block;
+}
+
+.row {
+    margin: 25px 5px 25px 5px;
+    text-align: justify;
+} 
+
 footer {
     clear: both;
     width: auto;
