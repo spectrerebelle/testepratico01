@@ -4,6 +4,9 @@
 
 header {
     display: block;
+    background-image: url(img/The-Witcher-3-Wild-Hunt-2.jpg);
+    width: auto;
+    height: 110px;
 }
 
 nav {
