@@ -3,10 +3,7 @@
    padding: 0;
 }
 
-
-.navbar .navbar-brand .navbar-nav .nav-item .nav-link {
-    color: aliceblue;
-}
+/* Topo começo */
 
 header {
     display: block;
@@ -14,6 +11,15 @@ header {
     width: auto;
     height: 384px;
 }
+
+.navbar .navbar-brand .navbar-nav .nav-item .nav-link {
+    color: aliceblue;
+}
+
+/* Topo final */
+
+
+/*Conteúdo começo*/
 
 article {
     float: left;
@@ -66,6 +72,8 @@ ul, li {
     margin: 25px 5px 25px 5px;
     text-align: justify;
 } 
+
+/*Conteúdo final*/
 
 footer {
     clear: both;
