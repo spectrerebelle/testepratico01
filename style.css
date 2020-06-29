@@ -1,5 +1,11 @@
 * {
-    background-color: rgb(0, 0, 0);
+   margin: 0;
+   padding: 0;
+}
+
+
+.navbar .navbar-brand .navbar-nav .nav-item .nav-link {
+    color: whitesmoke;
 }
 
 header {
@@ -7,12 +13,6 @@ header {
     background-image: url(img/header-02.jpg);
     width: auto;
     height: 384px;
-}
-
-.navbar .navbar-nav .nav-link {
-    color: whitesmoke;
-    text-decoration: none;
-    display: inline-flex;
 }
 
 article {
