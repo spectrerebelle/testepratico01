@@ -72,6 +72,26 @@ ul, li {
     text-align: justify;
 } 
 
+
+.table {
+    margin: 25px 15px 25px 5px;
+}
+
+.price p {
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+}
+
+
+.contact {
+    margin: 25px 15px 25px 5px;
+    display: block;
+    text-align: center;
+    font-size: large;
+}
+
+
 /*Conteúdo final*/
 
 footer {
